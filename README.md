@@ -24,7 +24,20 @@ you can.
 
 Hold the toothpaste with your left hand; turn the cap
 anti-clockwise; Put some water on your toothbrush; Press on the 
-tube of toothpaste so a little comes and, and put it on your toothbrush;
+tube of toothpaste, so a little comes and, and put it on your toothbrush;
 Now you just brush your teeth, either back and forth or in small circles;
 When you feel like you have brushed your teeth enough, you spit out the toothpaste;
-Then you rinse your mouth and your toothbrush with water and you are done.
+Then you rinse your mouth, and your toothbrush with water, and you are done.
+
+----------------------------------------------------------------------------------
+
+Thoughts on TDD:
+I had a lot of trouble in the beginning, but it quickly got 
+easier and easier as I began picking up the gist of it.
+
+I can definitely see how it can help with writing tests you might not 
+think of not for me though. 
+
+These tasks felt like they didn't need a lot of tests
+to cover the assignment. In a bigger program this would seem way 
+more useful. It was fun though.
